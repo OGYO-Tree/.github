@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/OGYO-Tree/.github/blob/main/profile/images/banner.png" />
 </p>
-# OGYO-Tree
+
+### OGYO-Tree
 
 Android device sources and proprietary vendor components for OnePlus SM6375 (`larry`).
 
